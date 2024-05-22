@@ -1,0 +1,70 @@
+.sidebar-header{
+    margin-left: 0%;
+    margin-right: 0px;
+}
+
+.icons {
+    position: relative;
+    top: 5px;
+  }
+  .nav-link{
+    color: rgb(153, 153, 153);
+    &:hover{
+        color:black;
+    }
+  }
+  .row{
+    height:100vh;
+  }
+  .col-sm-2{
+    position: relative;
+    box-shadow: 0px 10px 10px rgb(135, 131, 131);
+  }
+  .second-nav-link{
+    position: absolute;
+    bottom: 0%;
+  }
+.card{
+    border:none;
+    &:hover{
+        border: 0px groove grey;
+        background-color:rgba(197, 197, 197, 0.641);
+        box-shadow: 0px 1px 5px rgb(135, 131, 131);
+
+    }
+}
+.dv{
+    box-shadow: 0px 1px 5px rgb(135, 131, 131);
+
+}
+.bi-circle-fill{
+    position: absolute;
+    color: rgb(255, 149, 0);
+    top: -15%;
+    right: -10%;
+}
+.cal{
+    position: relative;
+}
+.bi-exclamation-triangle{
+    color: rgb(255, 149, 0);
+}
+.warn{
+    box-shadow: 0px 1px 6px rgba(135, 131, 131, 0.347);
+}
+.fcy{
+    color: rgb(215, 183, 5);
+  }
+  
+  .fcb{
+    color: rgb(5, 134, 215);
+  }
+  .left-border-y{
+    border-left: 3px solid  rgb(215, 183, 5);
+  }
+  .left-border-b{
+    border-left: 3px solid   rgb(5, 134, 215);
+  }
+.warni{
+    float:right;
+  }

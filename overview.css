@@ -1,0 +1,58 @@
+.billableColor {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: cyan;
+}
+.sidebar-header{
+  margin-left: 0%;
+  margin-right: 0px;
+}
+
+.icons {
+  position: relative;
+  top: 5px;
+}
+.nav-link{
+  color: rgb(153, 153, 153);
+  &:hover{
+      color:black;
+  }
+}
+/*  */
+.col-sm-2{
+  position: relative;
+  height: 100vh;
+  box-shadow: 0px 10px 10px rgb(135, 131, 131);
+}
+.second-nav-link{
+  position: absolute;
+  bottom: 0%;
+}
+
+.nonbillableColor {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+
+section p, section button {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+section .font-16 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
+.info-card {
+  background: rgb(194, 194, 196);
+  background: linear-gradient(90deg, rgb(194, 194, 196) 13%, rgb(114, 173, 202) 33%, rgb(163, 163, 164) 51%,  rgb(18, 196, 202) 100%);
+}
+section .childCont {
+  background: rgba(255, 255, 255, 0.3);
+  -webkit-backdrop-filter: blur(43px);
+          backdrop-filter: blur(43px);
+}/*# sourceMappingURL=overview.css.map */

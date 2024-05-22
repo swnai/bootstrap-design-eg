@@ -1,0 +1,86 @@
+.sidebar-header {
+  margin-left: 0%;
+  margin-right: 0px;
+}
+
+.icons {
+  position: relative;
+  top: 5px;
+}
+
+.nav-link {
+  color: rgb(153, 153, 153);
+}
+.nav-link:hover {
+  color: black;
+}
+
+.row {
+  height: 100vh;
+}
+
+.col-sm-2 {
+  position: relative;
+  box-shadow: 0px 10px 10px rgb(135, 131, 131);
+}
+
+.second-nav-link {
+  position: absolute;
+  bottom: 0%;
+}
+
+.progress {
+  width: 35%;
+  float: right;
+  height: 7px;
+  margin-right: 2%;
+}
+
+.perc {
+  float: right;
+}
+
+.hours {
+  float: right;
+}
+
+.fcy {
+  color: rgb(215, 183, 5);
+}
+
+.fcb {
+  color: rgb(5, 134, 215);
+}
+
+.left-border-y {
+  border-left: 3px solid rgb(215, 183, 5);
+}
+
+.left-border-b {
+  border-left: 3px solid rgb(5, 134, 215);
+}
+
+.warn {
+  float: right;
+}
+
+.card {
+  box-shadow: 0px 3px 10px rgba(135, 131, 131, 0.556);
+}
+
+.card {
+  border: none;
+}
+.card:hover {
+  border: 0px groove grey;
+  background-color: rgba(197, 197, 197, 0.641);
+  box-shadow: 0px 1px 5px rgb(135, 131, 131);
+}
+
+.bgrd {
+  background-image: linear-gradient(to right, grey, cyan, white, grey, aqua);
+}
+
+.bi-exclamation-triangle {
+  color: rgb(255, 162, 0);
+}/*# sourceMappingURL=style.css.map */
