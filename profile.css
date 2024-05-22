@@ -1,0 +1,109 @@
+.sidebar-header {
+  margin-left: 0%;
+  margin-right: 0px;
+}
+
+nav {
+  width: 100%;
+  margin-right: 0%;
+}
+
+.icons {
+  position: relative;
+  top: 5px;
+}
+
+.nav-link {
+  color: rgb(153, 153, 153);
+}
+.nav-link:hover {
+  color: black;
+}
+
+.row {
+  height: 100vh;
+}
+
+.col-2 {
+  box-shadow: 0px 0px 10px;
+}
+
+.second-nav-link {
+  margin-top: 100%;
+  position: absolute;
+  bottom: 0%;
+}
+
+.box {
+  margin-top: 32px;
+}
+
+.col-9 .container {
+  margin-top: 32px;
+  margin-left: 48px;
+  margin-right: 48px;
+}
+.col-9 .container .top {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+}
+.col-9 .container .logout {
+  color: #800000;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-right: 48px;
+  float: right;
+}
+.col-9 .container .p1 {
+  margin-top: 24px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.col-9 .container .p2 {
+  margin-top: 24px;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.col-9 .container .p3 {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.col-9 .container .button2 {
+  width: 50px;
+  height: 30px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.col-9 .container .btn-space {
+  margin-right: 8px;
+}
+.col-9 .container .button3 {
+  width: 50px;
+  height: 30px;
+  background-color: #001F3F;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.col-9 .container .push {
+  position: inline;
+  float: right;
+  margin-right: 48px;
+}
+.col-9 .container hr {
+  margin-right: 48px;
+}
+
+i {
+  position: relative;
+  top: 5px;
+  margin: 0px 5px 0px 0px;
+}
+
+.active {
+  color: black;
+}/*# sourceMappingURL=profile.css.map */

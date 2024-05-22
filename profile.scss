@@ -1,0 +1,125 @@
+.sidebar-header {
+    margin-left: 0%;
+    margin-right: 0px;
+}
+
+nav {
+    width: 100%;
+    margin-right: 0%;
+}
+
+.icons {
+    position: relative;
+    top: 5px;
+}
+
+.nav-link {
+    color: rgb(153, 153, 153);
+
+    &:hover {
+        color: black;
+    }
+}
+
+.row {
+    height: 100vh;
+}
+
+.col-2 {
+    box-shadow: 0px 0px 10px;
+}
+
+.second-nav-link {
+    margin-top: 100%;
+    position: absolute;
+    bottom: 0%;
+}
+
+.box {
+    margin-top: 32px;
+}
+
+.col-9 {
+
+    .container {
+        margin-top: 32px;
+        margin-left: 48px;
+        margin-right: 48px;
+
+        .top {
+            text-align: center;
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        .logout {
+            color: #800000;
+            font-size: 18px;
+            font-weight: 500;
+            margin-top: 20px;
+            margin-right: 48px;
+            float:right;
+            
+           
+        }
+
+        .p1 {
+            margin-top: 24px;
+            font-size: 18px;
+            font-weight: 500;
+        }
+
+        .p2 {
+            margin-top: 24px;
+            font-size: 16px;
+            font-weight: 500;
+            margin-bottom: 5px;
+        }
+
+        .p3 {
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .button2 {
+            width: 50px;
+            height: 30px;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            
+            
+        }
+.btn-space{
+    margin-right: 8px;
+}
+        .button3 {
+            width: 50px;
+            height: 30px;
+            background-color: #001F3F;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .push {
+            position: inline;
+            float: right;
+            margin-right: 48px;
+
+        }
+
+        hr {
+            margin-right: 48px;
+        }
+    }
+
+}
+i{
+    position: relative;
+    top:5px;
+    margin: 0px 5px 0px 0px;
+}
+.active{
+    color: black;
+  }

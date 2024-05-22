@@ -1,0 +1,33 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container-fluid .box {
+  height: 486px;
+  width: 400px;
+  gap: 32px;
+  margin-top: 30px;
+}
+.container-fluid .box img {
+  margin-left: 100px;
+}
+
+.container-fluid h2 {
+  padding-top: 32px;
+}
+.container-fluid p {
+  padding-top: 25px;
+  color: #708090;
+  font-weight: 400;
+  size: 16px;
+}
+.container-fluid form {
+  width: 400px;
+  height: 486px;
+}
+.container-fluid .button1 {
+  height: 37px;
+  width: 400px;
+  margin-top: 30px;
+  background-color: #001F3F;
+}/*# sourceMappingURL=login.css.map */
