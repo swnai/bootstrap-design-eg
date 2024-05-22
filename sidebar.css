@@ -1,0 +1,36 @@
+.sidebar-header {
+  margin-left: 0%;
+  margin-right: 0px;
+}
+
+nav {
+  width: 100%;
+  margin-right: 0%;
+}
+
+.icons {
+  position: relative;
+  top: 5px;
+}
+
+.nav-link {
+  color: rgb(153, 153, 153);
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.row {
+  height: 100vh;
+}
+
+.col-3 {
+  box-shadow: 0px 0px 10px;
+}
+
+.second-nav-link {
+  margin-top: 100%;
+  position: absolute;
+  bottom: 0%;
+}/*# sourceMappingURL=sidebar.css.map */

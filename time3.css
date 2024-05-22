@@ -1,0 +1,65 @@
+.form-control {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 4px;
+  height: 117px;
+  width: 100%;
+}
+
+.form-control2 {
+  border: none;
+  height: 40px;
+  width: 130px;
+}
+
+.btn1 {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 8px;
+  height: 30px;
+  width: 100%;
+  background-color: white;
+  text-align: left;
+}
+
+.cardtext3 {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 8px;
+  height: 117px;
+  width: 100%;
+}
+
+.btn2 {
+  background-color: #001f3f;
+  margin-top: 15px;
+  border-radius: 5px;
+  height: 40px;
+  width: 880px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  color: white;
+  margin-left: 15px;
+}
+
+.btn3 {
+  margin-top: 15px;
+  border-radius: 5px;
+  height: 40px;
+  width: 100%;
+  border: none;
+  background-color: white;
+  color: #4682B4;
+}
+
+.modal-header {
+  font-family: "Montserrat", sans-serif;
+}
+
+.Cards1 {
+  display: inline;
+}
+
+.noti {
+  box-shadow: 0px 0px 10px;
+}/*# sourceMappingURL=time3.css.map */

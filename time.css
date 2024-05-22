@@ -1,0 +1,209 @@
+.sidebar-header {
+  margin-left: 0%;
+  margin-right: 0px;
+}
+
+nav {
+  width: 100%;
+  margin-right: 0%;
+}
+
+.icons {
+  position: relative;
+  top: 5px;
+}
+
+.nav-link {
+  color: rgb(153, 153, 153);
+}
+.nav-link:hover {
+  color: black;
+}
+
+.row {
+  height: 100vh;
+}
+
+.col-3 {
+  box-shadow: 0px 0px 10px;
+}
+.second-nav-link {
+  margin-top: 100%;
+  position: absolute;
+  bottom: 0%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.cont {
+  height: auto;
+  width: 100%;
+}
+
+.cont-l {
+  height: inherit;
+  width: 50%;
+  float: left;
+  margin-top: 15px;
+}
+
+.cont-r {
+  margin-left: 710px;
+  color: #4682B4;
+  margin-top: 0px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.Cards {
+  display: flex;
+}
+
+.card56{
+  border-style: none;
+  margin-left: 0px;
+}
+
+.card1{
+  border-style: none;
+  margin-left: 0px;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius:5px ;
+  background-color: #f9fafb;
+}
+.card30{
+  border-left: 4px solid #cf9e57;
+  margin-left: 0px;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius:4px ;
+  background-color: #f9fafb;
+  margin-top: 15px;
+  height: 60px;
+}
+.card32{
+  border-left: 4px solid #cf9e57;
+  margin-left: 0px;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius:4px ;
+  background-color: #f9fafb;
+  margin-top: 15px;
+  height: 60px;
+}
+.card31{
+  border: none;
+  margin-left: 0px;
+  box-shadow: 10px #dcdada;
+  border-radius:4px ;
+  background-color: #f9fafb;
+  margin-top: 15px;
+  height: 90px;
+  border-left: 4px solid #a3cae9;
+}
+.card2{
+  border-style: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius:5px ;
+  background-color: #f9fafb;
+  height: 240px;
+  width: 160px;
+  margin: 20px;
+
+}
+
+.card-title {
+  margin-left: 15px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #708090;
+}
+
+.cardtext4 {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 4px;
+  height: 64px;
+  width:170px;
+}
+.cardtext {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 4px;
+  height: 40px;
+  width: 279px;
+  margin-left: 15px;
+}
+
+.cardtext2 {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 4px;
+  height: 40px;
+  width: 880px;
+  margin-left: 15px;
+}
+.form-control{
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 4px;
+  height: 117px;
+  width: 100%;
+}
+.form-control2{
+  border: none;
+  height: 40px;
+  width: 130px;
+}
+
+.btn1 {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 8px;
+  height: 30px;
+  width: 100%;
+  background-color: white;
+  text-align: left;
+}
+
+
+.cardtext3 {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 8px;
+  height: 117px;
+  width: 100%;
+}
+
+.btn2 {
+  background-color: #001f3f;
+  margin-top: 15px;
+  border-radius: 5px;
+  height: 40px;
+  width: 880px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  color: white;
+  margin-left: 15px;
+}
+.btn3{
+  margin-top: 15px;
+  border-radius: 5px;
+  height: 40px;
+  width: 100%;
+  border: none;
+  background-color: white;
+  color: #4682B4;
+
+}
+.modal-header{
+  font-family: "Montserrat", sans-serif;
+}
+.Cards1{
+  display: inline;
+}
+.noti{
+  box-shadow: 0px 0px 10px;
+}
+/*# sourceMappingURL=index.css.map */

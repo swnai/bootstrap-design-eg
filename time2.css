@@ -1,0 +1,33 @@
+.card-title {
+  margin-left: 15px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #708090;
+}
+
+.cardtext4 {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 4px;
+  height: 64px;
+  width: 170px;
+}
+
+.cardtext {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 4px;
+  height: 40px;
+  width: 279px;
+  margin-left: 15px;
+}
+
+.cardtext2 {
+  border: none;
+  box-shadow: 0 0 10px #dcdada;
+  border-radius: 4px;
+  height: 40px;
+  width: 880px;
+  margin-left: 15px;
+}/*# sourceMappingURL=time2.css.map */
