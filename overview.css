@@ -2,7 +2,7 @@
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background-color: cyan;
+  background-color: rgb(130, 185, 227);
 }
 .sidebar-header{
   margin-left: 0%;
@@ -34,7 +34,7 @@
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background-color: gray;
+  background-color: rgb(210, 210, 210);
 }
 
 
