@@ -1,3 +1,6 @@
+body {
+    font-family: "Montserrat", sans-serif;
+  }
 .sidebar-header {
     margin-left: 0%;
     margin-right: 0px;
@@ -25,7 +28,7 @@ nav {
     height: 100vh;
 }
 
-.col-2 {
+.col-3 {
     box-shadow: 0px 0px 10px;
 }
 
@@ -120,6 +123,3 @@ i{
     top:5px;
     margin: 0px 5px 0px 0px;
 }
-.active{
-    color: black;
-  }

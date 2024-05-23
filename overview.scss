@@ -4,8 +4,7 @@
   border-radius: 50%;
   background-color: rgb(130, 185, 227);
 }
-
-.sidebar-header {
+.sidebar-header{
   margin-left: 0%;
   margin-right: 0px;
 }
@@ -14,22 +13,19 @@
   position: relative;
   top: 5px;
 }
-
-.nav-link {
+.nav-link{
   color: rgb(153, 153, 153);
+  &:hover{
+      color:black;
+  }
 }
-.nav-link:hover {
-  color: black;
-}
-
 /*  */
-.col-sm-3 {
+.col-sm-3{
   position: relative;
   height: 100vh;
   box-shadow: 0px 10px 10px rgb(135, 131, 131);
 }
-
-.second-nav-link {
+.second-nav-link{
   position: absolute;
   bottom: 0%;
 }
@@ -41,22 +37,20 @@
   background-color: rgb(210, 210, 210);
 }
 
+
 section p, section button {
   font-family: "Montserrat", sans-serif;
 }
-
 .font-16 {
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
 }
-
 div .info-card {
   background: rgb(194, 194, 196);
-  background: linear-gradient(90deg, rgb(194, 194, 196) 13%, rgb(114, 173, 202) 33%, rgb(163, 163, 164) 51%, rgb(18, 196, 202) 100%);
+  background: linear-gradient(90deg, rgb(194, 194, 196) 13%, rgb(114, 173, 202) 33%, rgb(163, 163, 164) 51%,  rgb(18, 196, 202) 100%);
 }
-
 .childCont {
   background: rgba(255, 255, 255, 0.3);
   -webkit-backdrop-filter: blur(43px);
-  backdrop-filter: blur(43px);
-}/*# sourceMappingURL=overview.css.map */
+          backdrop-filter: blur(43px);
+}
